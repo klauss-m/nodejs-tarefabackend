@@ -13,7 +13,6 @@ Foram utilizadas as seguintes ferramentas neste projeto:
 - [NodeJS](https://nodejs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [TypeORM](https://typeorm.io/)
-- [Emotion](https://emotion.sh/)
 
 # Status do Projeto
 
